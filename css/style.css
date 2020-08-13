@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+}
+body{
+	background-color: green;
+}
+.sopa{
+	width: 660px;
+	height: 700px;
+	background-color: orange;
+}
+.alerta{
+	margin: 300px
+}
